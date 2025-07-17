@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: mcqgenerator
+Version: 0.0.1
+Author: merlyn
+Author-email: omagwamerlyn@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: langchain-google-genai
+Requires-Dist: google-generativeai
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
